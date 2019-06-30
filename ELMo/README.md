@@ -10,7 +10,7 @@ python train_elmo.py
 --train_elmo.py  
 --elmo_for_train.py  
 
-##use on BCN:
+## use on BCN:
 --embedder.py  
 --elmo_wo_cnn.py
 
