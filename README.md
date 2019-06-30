@@ -53,6 +53,8 @@ python bert_process.py
 --bert_process.py  
 --sample_submission.csv  
 
+### result:
+![image](https://github.com/TaiChunYen/adl_hw2/blob/master/picture/bert_result.png)  
 
 
 
