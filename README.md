@@ -15,14 +15,15 @@ reproduce detail in ELMO/README.md
 reproduce detail in BCN/README.md
 
 ## relate:BERT
-convert csv to tsv:python csv2tsv.py
+convert csv to tsv:
+python csv2tsv.py
 --csv2tsv.py  
 <br/>
 <br/>
 ### run self classification task:
-bert/
---run_classifier.py
-|--必要：
+bert/  
+--run_classifier.py  
+|--必要：  
 | |--data_dir  
 | |--bert_config_file  
 | |--task_name  
