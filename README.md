@@ -15,7 +15,7 @@ reproduce detail in ELMO/README.md
 reproduce detail in BCN/README.md
 
 ## relate:BERT
-convert csv to tsv:
+convert csv to tsv:  
 python csv2tsv.py
 --csv2tsv.py  
 <br/>
@@ -29,7 +29,7 @@ bert/
 | |--task_name  
 | |--vocab_file  
 | |--output_dir  
-|--其他設定：
+|--其他設定：  
 &nbsp; |--init_checkpoint  
 &nbsp; |--do_lower_case  
 &nbsp; |--max_seq_length  
