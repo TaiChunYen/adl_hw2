@@ -4,7 +4,7 @@ import pdb
 from torch.autograd import Variable
 from torch.utils.data import DataLoader
 from tqdm import tqdm
-from elmo_wo_cnn import ELMo
+from elmo_for_train import ELMo
 from emb_layer import Emb_layer
 import pickle
 import os
